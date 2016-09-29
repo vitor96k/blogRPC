@@ -1,0 +1,1 @@
+Altere o arquivo ./executar.sh para o código que quer executar: ClienteConsulta ou ClientePostar
