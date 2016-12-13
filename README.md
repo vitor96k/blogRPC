@@ -2,7 +2,7 @@
 
 Desenvolvimento de um blog utilizando RPC para a disciplina de Sistemas Operacionais - 3º Ano Ciência da Computação
 
-As operações permitidas no micro blogue: <br /> <br />
+As operações permitidas no micro blogue: <br /> 
 
 a) Usuários enviam post em um determinado tópico: post(@username, #tópico, texto)  <br />
 b) Usuário ingressa em um determinado tópico: follow (@username, #tópico) <br />
